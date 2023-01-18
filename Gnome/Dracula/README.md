@@ -19,6 +19,7 @@ bash apt install gnome-tweaks dconf-cli tmux vim btop zsh exa
 ### Other
 - [vim-plug](https://github.com/junegunn/vim-plug)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+- [fm6000](https://github.com/anhsirk0/fetch-master-6000)
 ---
 
 BF6CFB
